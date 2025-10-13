@@ -1,5 +1,14 @@
 ## 👋 Hi, I'm Sadhana — Principal Platform Automation Architect
 
+![AI Platform Automation](https://img.shields.io/badge/Platform-AI%20Governed%20Automation-blue?style=for-the-badge)
+![Zero Trust Architect](https://img.shields.io/badge/Security-Zero%20Trust-green?style=for-the-badge)
+![Terraform Sentinel](https://img.shields.io/badge/IaC-Terraform%20%2B%20Sentinel-purple?style=for-the-badge)
+![Vault Integration](https://img.shields.io/badge/Auth-Vault%20Ephemeral%20Token-red?style=for-the-badge)
+![Nutanix Calm](https://img.shields.io/badge/Orchestration-Nutanix%20Calm-orange?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge)
+![GovCloud Ready](https://img.shields.io/badge/Compliance-FedRAMP%20%7C%20FISMA%20%7C%20HIPAA-8A2BE2?style=for-the-badge)
+
+
 I design and build **AI-governed, Zero-Trust automation platforms** that turn infrastructure provisioning into **self-service, policy-enforced workflows** — safe for both **developers and AI agents** to trigger in **GovCloud, enterprise, and SaaS environments**.
 
 🚀 **Core Focus Areas**
