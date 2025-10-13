@@ -31,6 +31,14 @@ I design and build **AI-governed, Zero-Trust automation platforms** that turn in
 | **`aws-quicksight-cicd`** | CI/CD-driven provisioning of BI environments for regulated analytics use cases |
 | *(More components coming — Terraform policy bundles, Vault patterns, drift remediation modules...)* |
 
+#### 🔧 Key Platform Modules
+
+| Repository | Purpose |
+|-----------|--------|
+| [`ai-governed-platform-automation`](https://github.com/dat-eng/ai-governed-platform-automation) | **Core orchestration framework — AI-triggerable, policy-enforced provisioning for GovCloud & enterprise environments.** |
+| [`sas_client`](https://github.com/dat-eng/sas_client) | **Python client that unifies Terraform, Calm, Vault, and Infoblox API execution under a Zero-Trust orchestration model.** |
+| [`sas_server`](https://github.com/dat-eng/sas_server) | **FastAPI gateway layer — safe API surface for developers, CI/CD pipelines, and AI agents.** |
+| [`aws-quicksight-cicd`](https://github.com/dat-eng/aws-quicksight-cicd) | **BI automation pipeline — governs AWS QuickSight dataset & dashboard provisioning at scale.** |
 ---
 
 ### 🎯 Platform Engineering Philosophy
