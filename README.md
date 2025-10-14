@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sahdna — Principal Platform Automation Architect
+## 👋 Hi, I'm Sahdna (Sadhana) — Principal Platform Automation Architect
 
 ![AI Platform Automation](https://img.shields.io/badge/Platform-AI%20Governed%20Automation-blue?style=for-the-badge)
 ![Zero Trust Architect](https://img.shields.io/badge/Security-Zero%20Trust-green?style=for-the-badge)
