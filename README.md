@@ -21,6 +21,9 @@ I design and build **AI-governed, Zero-Trust automation platforms** that turn in
 
 ---
 
+🎯 **Platform Roadmap**
+[Roadmap](https://github.com/dat-eng/AI-Governed-Platform-Automation/blob/main/docs/roadmap.md)
+
 ### 🔧 Featured Platform Frameworks (Public Samples)
 
 | Project | Description |
