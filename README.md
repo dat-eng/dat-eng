@@ -56,6 +56,6 @@ I design and build **AI-governed, Zero-Trust automation platforms** that turn in
 ---
 
 📫 **Connect or collaborate on platform automation & AI-governance:**  
-`[[LinkedIn link](https://www.linkedin.com/in/sadhanamanohar/)]` • `github.com/dat-eng`
+[LinkedIn link](https://www.linkedin.com/in/sadhanamanohar/) • `github.com/dat-eng`
 
 > _Open to Principal/Staff Platform Architect opportunities in AI-driven DevOps, GovCloud automation, and Zero-Trust data infrastructure._
