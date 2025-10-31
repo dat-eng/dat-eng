@@ -12,7 +12,7 @@ I design and build **AI-governed, Zero-Trust automation platforms** that turn in
 
 🚀 **Core Focus Areas**
 - AI-triggerable infrastructure orchestration (Terraform • Vault • Calm • FastAPI)
-- Zero-Trust platform design under **FedRAMP / FISMA / HIPAA / SOC2** principles
+- Zero-Trust platform design under **GDPR/ HIPAA / SOC2** principles
 - Unified provisioning clients & service layers (**CLI + REST API + ChatOps/Agent gateways**)
 - **Snowflake / Redshift / Airflow** data platform automation
 - **Looker / QuickSight** multi-tenant BI enablement with governance tags
