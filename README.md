@@ -6,10 +6,9 @@
 ![Vault Integration](https://img.shields.io/badge/Auth-Vault%20Ephemeral%20Token-red?style=for-the-badge)
 ![Nutanix Calm](https://img.shields.io/badge/Orchestration-Nutanix%20Calm-orange?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/API-FastAPI-teal?style=for-the-badge)
-![GovCloud Ready](https://img.shields.io/badge/Compliance-FedRAMP%20%7C%20FISMA%20%7C%20HIPAA-8A2BE2?style=for-the-badge)
 
 
-I design and build **AI-governed, Zero-Trust automation platforms** that turn infrastructure provisioning into **self-service, policy-enforced workflows** — safe for both **developers and AI agents** to trigger in **GovCloud, enterprise, and SaaS environments**.
+I design and build **AI-governed, Zero-Trust automation platforms** that turn infrastructure provisioning into **self-service, policy-enforced workflows** — safe for both **developers and AI agents** to trigger in **Enterprise, and SaaS environments**.
 
 🚀 **Core Focus Areas**
 - AI-triggerable infrastructure orchestration (Terraform • Vault • Calm • FastAPI)
@@ -55,10 +54,3 @@ I design and build **AI-governed, Zero-Trust automation platforms** that turn in
 - 📌 **Explain-Plan API** for LLM-friendly Terraform/Sentinel output
 - 📌 Vault pattern guide: **Token lifetimes, scope enforcement, IRM tagging**
 - 📌 Secure **Backstage / Developer Hub** catalog components for self-service onboarding
-
----
-
-📫 **Connect or collaborate on platform automation & AI-governance:**  
-[LinkedIn link](https://www.linkedin.com/in/sadhanamanohar/) • `github.com/dat-eng`
-
-> _Open to Principal/Staff Platform Architect opportunities in AI-driven DevOps, GovCloud automation, and Zero-Trust data infrastructure._
